@@ -1,4 +1,4 @@
-telegram_bot_token: "5737744160:AAHWNc3rnHF_uoOIdo5sNff-eUGhdk-tsvE" #change it
+telegram_bot_token: "8103354983:AAGw6mAfAOzK7q53VyuJ37jFyJTXZw2hokw" #change it
 maintenance: false #turn it to true to force the bot to go into maintanance mode.
 db_path: "db/database.db"
 max_users: 3000
