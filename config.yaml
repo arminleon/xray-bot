@@ -4,6 +4,6 @@ db_path: "db/database.db"
 max_users: 3000
 traffic_limit: 8716192768 #5 GB
 outline_ip: "100.25.47.59"
-telegram_channel_id: "@WomanLifeFreedomVPN"
+telegram_channel_id: "@Download_Download"
 domain: "135.181.35.207"
 ip: "135.181.35.207"
